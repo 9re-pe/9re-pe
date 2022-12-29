@@ -1,16 +1,24 @@
-### Hi there 👋
+# 中嶋 太一 / Taichi Nakashima
 
-<!--
-**9re-pe/9re-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 所属
+筑波大学情報学群情報メディア創成学類 3年  
+DSE Lab. (Data System Engineering Laboratory)
 
-Here are some ideas to get you started:
+## プロジェクト
+- クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI
+- 「どの店に食べに行くかが決められない！」を解決するWebアプリケーション
+- ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 実務経験
+- 2022    株式会社いえらぶGROUP(インターン)
+  - WEBアプリケーション開発
+  - 自社開発
+- 2022-23 株式会社いえらぶGROUP(アルバイト)
+  - WEBアプリケーション開発
+  - 受託開発
+
+## 経歴
+- 2008-14 山口大学教育学部附属光小学校
+- 2014-17 山口大学教育学部附属光中学校
+- 2017-20 山口県立徳山高等学校
+- 2020-24 筑波大学情報学群情報メディア創成学類
