@@ -7,6 +7,7 @@ DSE Lab. (Data System Engineering Laboratory)
 ## プロジェクト
 - クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI
   - Notion : https://sparkling-geometry-030.notion.site/UI-AI-8eed8e10291a4dc38ae7123cbea2a8c9
+  - リポジトリ : https://github.com/9re-pe/ui_judge_ai/
 - 「どの店に食べに行くかが決められない！」を解決するWebアプリケーション
 - ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか
 
