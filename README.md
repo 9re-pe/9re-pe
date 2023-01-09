@@ -9,6 +9,9 @@ DSE Lab. (Data System Engineering Laboratory)
   - Notion : https://sparkling-geometry-030.notion.site/UI-AI-8eed8e10291a4dc38ae7123cbea2a8c9
   - リポジトリ : https://github.com/9re-pe/ui_judge_ai/
 - 「どの店に食べに行くかが決められない！」を解決するWebアプリケーション
+  - サービスURL : https://meshireco.netlify.app/
+  - Notion : 
+  - リポジトリ : https://github.com/enpitut2022/a-meshireco
 - ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか
 
 ## 実務経験
