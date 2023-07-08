@@ -27,7 +27,7 @@ DSE Lab. (Data System Engineering Laboratory)
   - 自社開発 -> 受託開発
   - クライアントサイド, サーバーサイド(サーバサイドがメイン)
   - アプリケーション, バッチ処理
-  - PHP, JavaSript, ZendFramework,　SQL, Git
+  - PHP, JavaSript, ZendFramework, SQL, Git
 
 ## 経歴
 - 2008-14 山口大学教育学部附属光小学校
