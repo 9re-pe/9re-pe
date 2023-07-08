@@ -12,7 +12,7 @@ DSE Lab. (Data System Engineering Laboratory)
 ## プロジェクト
 - (2022)クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI
   - 詳細 : https://sparkling-geometry-030.notion.site/UI-AI-8eed8e10291a4dc38ae7123cbea2a8c9
-  - リポジトリ : https://github.com/9re-pe/ui_judge_ai/
+  - リポジトリ : https://github.com/9re-pe/ui_judge_ai
 - (2022)【アジャイル開発】「どの店に食べに行くかが決められない！」を解決するWebアプリケーション
   - サービスURL : https://meshireco.netlify.app/
   - 詳細 : https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368
