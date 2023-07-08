@@ -12,7 +12,9 @@ DSE Lab. (Data System Engineering Laboratory)
   - サービスURL : https://meshireco.netlify.app/
   - 詳細 : https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368
   - リポジトリ : https://github.com/enpitut2022/a-meshireco
-- ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか(進行中)
+- ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか
+  - 詳細 : https://sparkling-geometry-030.notion.site/f4cbdf84150d473fa6d523af1c52c0c6?pvs=4
+  - リポジトリ
 
 ## 実務経験
 - 2022    株式会社いえらぶGROUP(インターン)
