@@ -9,7 +9,7 @@ CS専攻の学生で、主な研究テーマは「推薦システム」, 「情�
 筑波大学情報学群情報メディア創成学類 4年  
 DSE Lab. (Data System Engineering Laboratory)
 
-## プロジェクト
+## 成果物
 - (2022)クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI
   - 詳細は[こちら](https://sparkling-geometry-030.notion.site/UI-AI-8eed8e10291a4dc38ae7123cbea2a8c9)
   - リポジトリは[こちら](https://github.com/9re-pe/ui_judge_ai)
