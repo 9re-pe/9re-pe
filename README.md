@@ -10,16 +10,8 @@ CS専攻の学生で、主な研究テーマは「推薦システム」, 「情�
 DSE Lab. (Data System Engineering Laboratory)
 
 ## 成果物
-- (2022)クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI
-  - 詳細は[こちら](https://sparkling-geometry-030.notion.site/UI-AI-8eed8e10291a4dc38ae7123cbea2a8c9)
-  - リポジトリは[こちら](https://github.com/9re-pe/ui_judge_ai)
-- (2022)【アジャイル開発】「どの店に食べに行くかが決められない！」を解決するWebアプリケーション
-  - サービスURLは[こちら](https://meshireco.netlify.app/)
-  - 詳細は[こちら](https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368)
-  - リポジトリは[こちら](https://github.com/enpitut2022/a-meshireco)
-- (2022)ソーシャルネットワークにおいて、「コミュニティの感情」は存在するのか
-  - 詳細は[こちら](https://sparkling-geometry-030.notion.site/f4cbdf84150d473fa6d523af1c52c0c6?pvs=4)
-  - リポジトリは[こちら](https://github.com/9re-pe/community_emotion)
+- (2022)クラウドソーシング×機械学習による、ヒューリスティックに基づくUIデザイン評価AI([詳細](https://zenn.dev/9re_pe/articles/ui-judging-ai))
+- (2022)【アジャイル開発】「どの店に食べに行くかが決められない！」を解決するWebアプリケーション([サービス](https://meshireco.netlify.app/), [詳細](https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368))
 
 ## 実務経験
 - 2022.3- 株式会社いえらぶGROUP(アルバイト)
