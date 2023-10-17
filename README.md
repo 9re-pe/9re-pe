@@ -11,7 +11,7 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ## 成果物
 - 2022 [【機械学習×クラウドソーシング】UIデザイン評価AIを作ってみた](https://zenn.dev/9re_pe/articles/ui-judging-ai)
-- 2022 [【アジャイル開発】「どの店に食べに行くかが決められない！」を解決するWebアプリケーション](https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368)([サービス](https://meshireco.netlify.app/))
+- 2022 [【アジャイル開発】「どの店に食べに行くかが決められない！」を解決するWebアプリケーション](https://sparkling-geometry-030.notion.site/Web-a88f57686e9d4222902b2ecdc4ce6368)
 
 ## 実務経験
 - 2022.3- 株式会社いえらぶGROUP(アルバイト)
