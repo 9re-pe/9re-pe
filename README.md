@@ -6,7 +6,7 @@ DSE Lab. (Data System Engineering Laboratory)
 - [スキルセット](#スキルセット)
 - [研究内容](#研究内容)
 - [実務経験](#実務経験)
-- [技術ブログ・個人開発](#技術ブログ・個人開発)
+- [個人開発と技術ブログ](#個人開発と技術ブログ)
 
 ## スキルセット
 
@@ -55,7 +55,7 @@ AtCoder 🟢
 
 
 
-## 技術ブログ・個人開発
+## 個人開発と技術ブログ
 
 - 2022 [【機械学習×クラウドソーシング】UIデザイン評価AIを作ってみた](https://zenn.dev/9re_pe/articles/ui-judging-ai)
 - 2022 [【アジャイル開発】「どの店に行くかが決まらない」を解決するアプリを作ってみた](https://zenn.dev/9re_pe/articles/agile-meshireco)
