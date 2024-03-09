@@ -26,9 +26,10 @@ AtCoder 🟢
 ## 研究内容
 [CML](https://dl.acm.org/doi/10.1145/3038912.3052639)というEmbeddingベースの推薦モデルにおいて、
 ユーザの[Serendipity](https://speakerdeck.com/kuri8ive/does-serendipity-bring-spark-joy?slide=4)を実現するための研究を行っています。  
-ソースコードは[こちら](https://github.com/9re-pe/mpcml)のリポジトリにあります。 (リファクタリング不足等、まだ完璧なものではないです。)
+ソースコードは[こちら](https://github.com/9re-pe/mpcml)のリポジトリにあります。 (リファクタリング不足等、まだ完璧なものではないです。)  
+以下は学会発表で使用したポスターです。
 
-
+<img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/ab4ab82b-c2ff-4cc9-927d-ca52cb7e95a7">
 
 ## 実務経験
 
