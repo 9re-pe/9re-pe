@@ -1,11 +1,5 @@
 # 中嶋 太一 / Taichi Nakashima
 
-## はじめまして
-こんにちは。中嶋太一と申します。  
-CS専攻の学生で、主な研究テーマは「推薦システム」, 「情報探索」, 「知識発見」です。  
-最近AtCoder頑張ってます！
-
-## 所属
 筑波大学情報学群情報メディア創成学類 4年  
 DSE Lab. (Data System Engineering Laboratory)
 
