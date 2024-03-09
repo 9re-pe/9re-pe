@@ -33,8 +33,8 @@ AtCoder 🟢
 ||| 
 | ---------- | ----------- | 
 | 分野        | Webエンジニア | 
-| 主な雇用期間  | 約1年半 (2022.02 ~ 2023.08) | 
-| 業務内容    | Webアプリケーションの保守・運用, 大規模データに対するバッチ処理開発 | 
+| 雇用期間     | 約1年半 (2022.02 ~ 2023.08) | 
+| 主な業務内容 | Webアプリケーションの保守・運用, 大規模データに対するバッチ処理開発 | 
 | 言語        | ![](https://skillicons.dev/icons?i=php,js,html,css) |
 | DBMS       | ![](https://skillicons.dev/icons?i=mysql) |
 | VCS        | ![](https://skillicons.dev/icons?i=git,gitlab) |
