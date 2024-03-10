@@ -29,7 +29,7 @@ AtCoder 🟢
 ソースコードは[こちら](https://github.com/9re-pe/mpcml)のリポジトリにあります。 (リファクタリング不足等、まだ完璧なものではないです。)  
 以下は学会発表で使用したポスターです。
 
-<img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/ab4ab82b-c2ff-4cc9-927d-ca52cb7e95a7">
+<img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/5cbf9954-968f-43c7-96bc-d72023057c3c">
 
 ## 実務経験
 
