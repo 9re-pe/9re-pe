@@ -31,7 +31,7 @@ AtCoder 🟢
 
 <img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/5cbf9954-968f-43c7-96bc-d72023057c3c">
 
-### 学会発表・受賞
+### 🏆学会発表・受賞
 - 筑波大学情報メディア創成学類 学類長表彰 受賞
 - DEIM2024 論文発表
 
