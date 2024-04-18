@@ -62,12 +62,12 @@ AtCoder 🟢
 | VCS        | ![](https://skillicons.dev/icons?i=git,github) |
 
 
-## 成果物と技術ブログ
+## ハッカソン・技術ブログ等
 
 | カテゴリ | タイトル | 制作年 | URL | 
 | :---------- | :----------- | :----------- | :----------- | 
 | 個人開発 | 【機械学習×クラウドソーシング】UIデザイン評価AIを作ってみた | 2022 | [詳細](https://zenn.dev/9re_pe/articles/ui-judging-ai) |
-| チーム開発 | 【アジャイル開発】「どの店に行くかが決まらない」を解決するアプリを作ってみた | 2022 | [詳細](https://zenn.dev/9re_pe/articles/agile-meshireco) |
+| ハッカソン | 【アジャイル開発】「どの店に行くかが決まらない」を解決するアプリを作ってみた | 2022 | [詳細](https://zenn.dev/9re_pe/articles/agile-meshireco) |
 | 技術ブログ | 【閲覧注意】イライラ不可避なUIデザイン10選 (PV 5万越え) | 2023 | [詳細](https://qiita.com/9re-pe/items/0296f8a8c11490efda21) |
 
 
