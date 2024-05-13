@@ -38,7 +38,7 @@ DSE Lab. (Data System Engineering Laboratory)
 ### 学会発表・受賞
 - 🏆筑波大学情報メディア創成学類 学類長表彰 受賞
 - 🇯🇵DEIM2024 論文発表
-- 🌍DaWaK2024 論文発表予定(Accepted)
+- 🇮🇹DaWaK2024 論文発表予定(Accepted)
 
 以下は学会発表で使用したポスターです。
 
