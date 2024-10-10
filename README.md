@@ -1,6 +1,6 @@
 ## 中嶋 太一 / Taichi Nakashima
 
-University of Tsukuba Master’s Program in Computer Science
+University of Tsukuba, Master’s Program in Computer Science  
 DSE Lab. (Data System Engineering Laboratory)
 
 - [SKILL SET](#skill-set)
