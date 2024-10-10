@@ -3,14 +3,14 @@
 筑波大学大学院 情報理工学位プログラム 修士1年  
 DSE Lab. (Data System Engineering Laboratory)
 
-- [スキルセット](#スキルセット)
-- [研究活動](#研究活動)
-- [実務経験](#実務経験)
-- [ハッカソン](#ハッカソン)
-- [参加コンペや資格など](#参加コンペや資格など)
-- [技術ブログ等](#技術ブログ等)
+- [SKILLs](#skills)
+- [RESEARCH](#research)
+- [INTERN]()
+- [HACKATHON](#hackathon)
+- [COMPETITION&QUALIFICATION](#competitionqualification)
+- [TECHBLOGs](#techblogs)
 
-## スキルセット
+## SKILLs
 
 ★★★ (研究や実務でメイン使っており、最も得意)  
 ![](https://skillicons.dev/icons?i=py,anaconda,pytorch,php,git,github,gitlab,bash,linux)
@@ -25,7 +25,7 @@ DSE Lab. (Data System Engineering Laboratory)
 <img width="600" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/e2bcdc27-90a0-4ac7-bf94-89deca5a9000">
 
 
-## 研究活動
+## RESEARCH
 ||| 
 | -------------- | ----------- | 
 | テーマ          | 推薦システムの意外性向上 |
@@ -47,7 +47,7 @@ DSE Lab. (Data System Engineering Laboratory)
 
 
 
-## インターン
+## INTERN
 
 ### 株式会社メルカリ
 
@@ -78,7 +78,7 @@ DSE Lab. (Data System Engineering Laboratory)
 | その他技術要素 | Zend Framework, jQuery |
 | 経験内容詳細 | ・不動産大手企業の物件管理ツールの保守・運用（バグ修正・機能追加）<br>・同ツールの大規模データに対するバッチ処理（コンバート処理、異常検知等）の実装<br>・同ツールのソースコードに対するユニットテストの実装<br>・同プロジェクトの社員から依頼を受ける形でのチーム開発経験あり |
 
-## ハッカソン
+## HACKATHON
 
 ||| 
 | ---------- | ----------- | 
@@ -95,7 +95,7 @@ DSE Lab. (Data System Engineering Laboratory)
 | 備考 | [こちら](https://zenn.dev/9re_pe/articles/agile-meshireco)にて、アプリケーションの詳細、サービスのURL、企画や開発の過程、ハッカソンを通しての学びなどを詳しく記載しております。 |
 
 
-## 参加コンペや資格など
+## COMPETITION&QUALIFICATION
 
 ||| 
 | ---------- | ----------- | 
@@ -105,7 +105,7 @@ DSE Lab. (Data System Engineering Laboratory)
 | 語学スキル | TOEIC 855点 |
 
 
-## 技術ブログ等
+## TECHBLOGs
 
 | カテゴリ | タイトル | 制作年 | URL | 
 | :---------- | :----------- | :----------- | :----------- | 
