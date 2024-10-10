@@ -28,7 +28,8 @@ DSE Lab. (Data System Engineering Laboratory)
 ## 研究活動
 ||| 
 | -------------- | ----------- | 
-| テーマ          | 推薦システム | 
+| テーマ          | 推薦システムの意外性向上 |
+| DOI | [10.1007/978-3-031-68323-7_14](https://link.springer.com/chapter/10.1007/978-3-031-68323-7_14) |
 | 概要           | 推薦モデルにおける意外性の向上手法の研究。この研究では、埋め込みベースの推薦モデルにおいて、埋め込み空間の探索方法を改良することで、ユーザーにとっての意外性ある推薦を実現することを目指しています | 
 | 開発環境        | ![](https://skillicons.dev/icons?i=anaconda,linux) | 
 | 言語           | ![](https://skillicons.dev/icons?i=py) |
@@ -38,7 +39,7 @@ DSE Lab. (Data System Engineering Laboratory)
 ### 学会発表・受賞
 - 🏆筑波大学情報メディア創成学類 学類長表彰 受賞
 - 🇯🇵DEIM2024 論文発表
-- 🇮🇹DaWaK2024 論文発表予定(Accepted)
+- 🇮🇹DaWaK2024 論文発表（査読あり）
 
 以下は学会発表で使用したポスターです。
 
@@ -46,7 +47,23 @@ DSE Lab. (Data System Engineering Laboratory)
 
 
 
-## 実務経験
+## インターン
+
+### 株式会社メルカリ
+
+### Sansan株式会社
+
+### 株式会社Nuco
+
+||| 
+| ---------- | ----------- | 
+| 領域 | インフラエンジニア, 機械学習エンジニア |
+| 勤務期間 | 約10ヶ月 （2023.08 ~ 2024.06） |
+| 業務内容概要 | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
+| 技術要素（インフラ） | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions) |
+| 開発言語（機械学習） | ![](https://skillicons.dev/icons?i=py) |
+| バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,github) |
+| 経験内容詳細 | ・AWS WAF, CloudFront, ALB環境において、Webアプリケーションのメンテナンスモード切り替え機能とIP制限機能の開発<br>・同アプリの言語切り替え機能の開発<br>・上記案件にて、技術選定、顧客への提案、実装、他インターン生のマネジメントを担当<br>・ニュース記事のカテゴリ分類の案件にて、技術選定、システム設計、実装を担当 |
 
 ### 株式会社いえらぶGROUP
 
@@ -60,19 +77,6 @@ DSE Lab. (Data System Engineering Laboratory)
 | バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,gitlab) |
 | その他技術要素 | Zend Framework, jQuery |
 | 経験内容詳細 | ・不動産大手企業の物件管理ツールの保守・運用（バグ修正・機能追加）<br>・同ツールの大規模データに対するバッチ処理（コンバート処理、異常検知等）の実装<br>・同ツールのソースコードに対するユニットテストの実装<br>・同プロジェクトの社員から依頼を受ける形でのチーム開発経験あり |
-
-
-### 株式会社Nuco
-
-||| 
-| ---------- | ----------- | 
-| 領域 | インフラエンジニア, 機械学習エンジニア |
-| 勤務期間 | 約10ヶ月 （2023.08 ~ 2024.06） |
-| 業務内容概要 | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
-| 技術要素（インフラ） | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions) |
-| 開発言語（機械学習） | ![](https://skillicons.dev/icons?i=py) |
-| バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,github) |
-| 経験内容詳細 | ・AWS WAF, CloudFront, ALB環境において、Webアプリケーションのメンテナンスモード切り替え機能とIP制限機能の開発<br>・同アプリの言語切り替え機能の開発<br>・上記案件にて、技術選定、顧客への提案、実装、他インターン生のマネジメントを担当<br>・ニュース記事のカテゴリ分類の案件にて、技術選定、システム設計、実装を担当 |
 
 ## ハッカソン
 
