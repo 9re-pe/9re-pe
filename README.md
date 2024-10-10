@@ -11,15 +11,20 @@ DSE Lab. (Data System Engineering Laboratory)
 - [TECHBLOGs](#techblogs)
 
 ## SKILL SET
+### Machine Learning
+![](https://skillicons.dev/icons?i=py,pytorch,r)
 
-★★★ (研究や実務でメイン使っており、最も得意)  
-![](https://skillicons.dev/icons?i=py,anaconda,pytorch,php,git,github,gitlab,bash,linux)
+### Backend
+![](https://skillicons.dev/icons?i=php,laravel,rails)
 
-★★☆ (半年以上の実務経験がある)  
-![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,mysql,html,css,js,jquery)
+### Database
+![](https://skillicons.dev/icons?i=mysql,postgres)
 
-★☆☆ (授業や独学で勉強・開発したことがある)  
-![](https://skillicons.dev/icons?i=r,c,cpp,go,java,kotlin,perl,ts,ruby,laravel,rails,vite,androidstudio,figma,ai)
+### Infra (DevOps, MLOps)
+![](https://skillicons.dev/icons?i=kubernetes,terraform,docker,githubactions,aws)
+
+### Others
+![](https://skillicons.dev/icons?i=git,github,linux)
 
 ### AtCoder 🟢  
 <img width="600" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/e2bcdc27-90a0-4ac7-bf94-89deca5a9000">
