@@ -1,6 +1,6 @@
 ## 中嶋 太一 / Taichi Nakashima
 
-筑波大学大学院 情報理工学位プログラム 修士1年  
+University of Tsukuba Master’s Program in Computer Science
 DSE Lab. (Data System Engineering Laboratory)
 
 - [SKILL SET](#skill-set)
