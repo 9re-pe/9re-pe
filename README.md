@@ -5,7 +5,7 @@ DSE Lab. (Data System Engineering Laboratory)
 
 - [SKILLs](#skills)
 - [RESEARCH](#research)
-- [INTERN]()
+- [INTERN](#intern)
 - [HACKATHON](#hackathon)
 - [COMPETITION&QUALIFICATION](#competitionqualification)
 - [TECHBLOGs](#techblogs)
