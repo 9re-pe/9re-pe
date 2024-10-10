@@ -11,20 +11,14 @@ DSE Lab. (Data System Engineering Laboratory)
 - [TECHBLOGs](#techblogs)
 
 ## SKILL SET
-### Machine Learning
-![](https://skillicons.dev/icons?i=py,pytorch,r)
 
-### Backend
-![](https://skillicons.dev/icons?i=php,laravel,rails)
-
-### Database
-![](https://skillicons.dev/icons?i=mysql,postgres)
-
-### Infra (DevOps, MLOps)
-![](https://skillicons.dev/icons?i=kubernetes,terraform,docker,githubactions,aws)
-
-### Others
-![](https://skillicons.dev/icons?i=git,github,linux)
+|||
+| -------------- | ----------- | 
+|Machine Learning|![](https://skillicons.dev/icons?i=py,pytorch,r)|
+|Backend|![](https://skillicons.dev/icons?i=php,laravel,rails)|
+|Database|![](https://skillicons.dev/icons?i=mysql,postgres)|
+|Infra (DevOps)|![](https://skillicons.dev/icons?i=kubernetes,terraform,docker,githubactions,aws)|
+|Others|![](https://skillicons.dev/icons?i=git,github,linux)|
 
 ### AtCoder 🟢  
 <img width="600" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/e2bcdc27-90a0-4ac7-bf94-89deca5a9000">
