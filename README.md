@@ -3,14 +3,14 @@
 筑波大学大学院 情報理工学位プログラム 修士1年  
 DSE Lab. (Data System Engineering Laboratory)
 
-- [SKILLs](#skills)
+- [SKILL SET](#skill-set)
 - [RESEARCH](#research)
 - [INTERN](#intern)
 - [HACKATHON](#hackathon)
-- [COMPETITION&QUALIFICATION](#competitionqualification)
+- [COMPETITION & QUALIFICATION](#competition--qualification)
 - [TECHBLOGs](#techblogs)
 
-## SKILLs
+## SKILL SET
 
 ★★★ (研究や実務でメイン使っており、最も得意)  
 ![](https://skillicons.dev/icons?i=py,anaconda,pytorch,php,git,github,gitlab,bash,linux)
@@ -95,7 +95,7 @@ DSE Lab. (Data System Engineering Laboratory)
 | 備考 | [こちら](https://zenn.dev/9re_pe/articles/agile-meshireco)にて、アプリケーションの詳細、サービスのURL、企画や開発の過程、ハッカソンを通しての学びなどを詳しく記載しております。 |
 
 
-## COMPETITION&QUALIFICATION
+## COMPETITION & QUALIFICATION
 
 ||| 
 | ---------- | ----------- | 
