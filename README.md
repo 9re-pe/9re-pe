@@ -56,8 +56,8 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ||| 
 | ---------- | ----------- | 
-| 領域 | インフラエンジニア, 機械学習エンジニア |
-| 勤務期間 | 約10ヶ月 （2023.08 ~ 2024.06） |
+| 領域 | Infra, Machine Learning |
+| 勤務期間 | 10 month （2023.08 ~ 2024.06） |
 | 業務内容概要 | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
 | 技術要素（インフラ） | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions) |
 | 開発言語（機械学習） | ![](https://skillicons.dev/icons?i=py) |
@@ -68,8 +68,8 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ||| 
 | ---------- | ----------- | 
-| 領域 | バックエンドエンジニア, Webフロントエンドエンジニア |
-| 勤務期間 | 約1年半 （2022.02 ~ 2023.08） |
+| 領域 | Backend, Frontend |
+| 勤務期間 | 1.5 year （2022.02 ~ 2023.08） |
 | 業務内容概要 | Webアプリケーションの保守・運用, 大規模データに対するAPI開発 |
 | 開発言語 | ![](https://skillicons.dev/icons?i=php,js,html,css)  |
 | データベース | ![](https://skillicons.dev/icons?i=mysql) |
