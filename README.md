@@ -56,26 +56,21 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ||| 
 | ---------- | ----------- | 
-| 領域 | Infra, Machine Learning |
-| 勤務期間 | 10 month （2023.08 ~ 2024.06） |
-| 業務内容概要 | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
-| 技術要素（インフラ） | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions) |
-| 開発言語（機械学習） | ![](https://skillicons.dev/icons?i=py) |
-| バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,github) |
-| 経験内容詳細 | ・AWS WAF, CloudFront, ALB環境において、Webアプリケーションのメンテナンスモード切り替え機能とIP制限機能の開発<br>・同アプリの言語切り替え機能の開発<br>・上記案件にて、技術選定、顧客への提案、実装、他インターン生のマネジメントを担当<br>・ニュース記事のカテゴリ分類の案件にて、技術選定、システム設計、実装を担当 |
+| Field | Infra, Machine Learning |
+| Term | 10 month （2023.08 ~ 2024.06） |
+| Work duties | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
+| Technology stack | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,py,git,github) |
+| Works | ・AWS WAF, CloudFront, ALB環境において、Webアプリケーションのメンテナンスモード切り替え機能とIP制限機能の開発<br>・同アプリの言語切り替え機能の開発<br>・上記案件にて、技術選定、顧客への提案、実装、他インターン生のマネジメントを担当<br>・ニュース記事のカテゴリ分類の案件にて、技術選定、システム設計、実装を担当 |
 
 ### 株式会社いえらぶGROUP
 
 ||| 
 | ---------- | ----------- | 
-| 領域 | Backend, Frontend |
-| 勤務期間 | 1.5 year （2022.02 ~ 2023.08） |
-| 業務内容概要 | Webアプリケーションの保守・運用, 大規模データに対するAPI開発 |
-| 開発言語 | ![](https://skillicons.dev/icons?i=php,js,html,css)  |
-| データベース | ![](https://skillicons.dev/icons?i=mysql) |
-| バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,gitlab) |
-| その他技術要素 | Zend Framework, jQuery |
-| 経験内容詳細 | ・不動産大手企業の物件管理ツールの保守・運用（バグ修正・機能追加）<br>・同ツールの大規模データに対するバッチ処理（コンバート処理、異常検知等）の実装<br>・同ツールのソースコードに対するユニットテストの実装<br>・同プロジェクトの社員から依頼を受ける形でのチーム開発経験あり |
+| Field | Backend, Frontend |
+| Term | 1.5 year （2022.02 ~ 2023.08） |
+| Work duties | Webアプリケーションの保守・運用, 大規模データに対するAPI開発 |
+| Technology stack | ![](https://skillicons.dev/icons?i=php,js,html,css,mysql,git,gitlub)  |
+| Works | ・不動産大手企業の物件管理ツールの保守・運用（バグ修正・機能追加）<br>・同ツールの大規模データに対するバッチ処理（コンバート処理、異常検知等）の実装<br>・同ツールのソースコードに対するユニットテストの実装<br>・同プロジェクトの社員から依頼を受ける形でのチーム開発経験あり |
 
 ## HACKATHON
 
