@@ -26,21 +26,19 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ## RESEARCH
 ||| 
-| -------------- | ----------- | 
-| テーマ          | 推薦システムの意外性向上 |
-| DOI | [10.1007/978-3-031-68323-7_14](https://link.springer.com/chapter/10.1007/978-3-031-68323-7_14) |
-| 概要           | 推薦モデルにおける意外性の向上手法の研究。この研究では、埋め込みベースの推薦モデルにおいて、埋め込み空間の探索方法を改良することで、ユーザーにとっての意外性ある推薦を実現することを目指しています | 
-| 開発環境        | ![](https://skillicons.dev/icons?i=anaconda,linux) | 
-| 言語           | ![](https://skillicons.dev/icons?i=py) |
-| 機械学習ライブラリ | ![](https://skillicons.dev/icons?i=pytorch) |
-| リポジトリ        | https://github.com/9re-pe/mpcml |
+| -------- | -------- | 
+| Title    | Improving Serendipity for Collaborative Metric Learning Based on Mutual Proximity |
+| KeyWord  | Recommendation, Beyond Accuracy, Machine Learning, kNN Search |
+| Abstruct | Today, in web space, where content is constantly expanding, recommendation systems that enable users to explore information passively have become essential technologies, and their accuracy is significantly improving. However, recent studies have focused not only on enhancing recommendation accuracy by suggesting items that match user preferences but also on increasing the appeal of recommendation systems by offering unexpected discoveries and recommendations that exceed expectations. Studies have been conducted to achieve serendipity, recommendations that are both beneficial to the user and marked by novelty and surprise. However, existing systems alter the embedding space compromising this flexibility. In this study, we propose a recommendation method called mutual proximity collaborative metric learning, which improves serendipity for users in an embedding-based recommendation method called collaborative metric learning. The proposed method improves existing techniques by refining the embedding space search algorithm, reducing the bias toward popular items in recommendations without altering the original embedding space, thereby enabling users to achieve serendipity. Furthermore, experimental results demonstrate that our approach outperforms existing methods across various evaluation metrics, such as unpopularity and serendipity. Our approach can thus achieve serendipity and preserve the applicability of the embedding space to diverse tasks. |
+| DOI        | [10.1007/978-3-031-68323-7_14](https://link.springer.com/chapter/10.1007/978-3-031-68323-7_14) |
+| Repository | https://github.com/9re-pe/mpcml |
 
-### 学会発表・受賞
-- 🏆筑波大学情報メディア創成学類 学類長表彰 受賞
-- 🇯🇵DEIM2024 論文発表
-- 🇮🇹DaWaK2024 論文発表（査読あり）
+### Conferences & Awords
+- 🏆 筑波大学情報メディア創成学類 学類長表彰 受賞
+- 🇯🇵 DEIM2024
+- 🇮🇹 DaWaK2024 ( [10.1007/978-3-031-68323-7_14](https://link.springer.com/chapter/10.1007/978-3-031-68323-7_14) )
 
-以下は学会発表で使用したポスターです。
+▼ Poster in DEIM2024 (Only Japanese)
 
 <img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/5cbf9954-968f-43c7-96bc-d72023057c3c">
 
@@ -50,50 +48,56 @@ DSE Lab. (Data System Engineering Laboratory)
 
 ### 株式会社メルカリ
 
+||| 
+| ---------- | ----------- | 
+| Field | Machine Learning |
+| Term | 2 month （2024.08.01 ~ 2024.09.30） |
+| Technology stack | ![](https://skillicons.dev/icons?i=py,gcp) |
+| Works | Credit Model Development |
+
 ### Sansan株式会社
+
+||| 
+| ---------------- | ---------------- | 
+| Field            | Infra (DevOps) |
+| Term             | 1 month （2024.07.01 ~ 2024.07.31） |
+| Technology stack | ![](https://skillicons.dev/icons?i=kubernetes,githubactions,aws,terraform,docker,py) |
+| Works            | Automation of E2E Testing using Kubernetes (EKS) and GitHub Actions |
 
 ### 株式会社Nuco
 
 ||| 
-| ---------- | ----------- | 
-| Field | Infra, Machine Learning |
-| Term | 10 month （2023.08 ~ 2024.06） |
-| Work duties | Webアプリケーションのインフラ開発, 機械学習を用いた依頼業務 |
-| Technology stack | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,py,git,github) |
-| Works | ・AWS WAF, CloudFront, ALB環境において、Webアプリケーションのメンテナンスモード切り替え機能とIP制限機能の開発<br>・同アプリの言語切り替え機能の開発<br>・上記案件にて、技術選定、顧客への提案、実装、他インターン生のマネジメントを担当<br>・ニュース記事のカテゴリ分類の案件にて、技術選定、システム設計、実装を担当 |
+| ---------------- | ---------------- | 
+| Field            | Infra, Machine Learning |
+| Term             | 10 month （2023.08 ~ 2024.06） |
+| Technology stack | ![](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,py) |
 
 ### 株式会社いえらぶGROUP
 
 ||| 
-| ---------- | ----------- | 
-| Field | Backend, Frontend |
-| Term | 1.5 year （2022.02 ~ 2023.08） |
-| Work duties | Webアプリケーションの保守・運用, 大規模データに対するAPI開発 |
-| Technology stack | ![](https://skillicons.dev/icons?i=php,js,html,css,mysql,git,gitlub)  |
-| Works | ・不動産大手企業の物件管理ツールの保守・運用（バグ修正・機能追加）<br>・同ツールの大規模データに対するバッチ処理（コンバート処理、異常検知等）の実装<br>・同ツールのソースコードに対するユニットテストの実装<br>・同プロジェクトの社員から依頼を受ける形でのチーム開発経験あり |
+| ---------------- | ---------------- | 
+| Field            | Backend, Frontend |
+| Term             | 1.5 year （2022.02 ~ 2023.08） |
+| Technology stack | ![](https://skillicons.dev/icons?i=php,js,html,css,mysql)  |
 
 ## HACKATHON
 
 ||| 
-| ---------- | ----------- | 
-| イベント名 | 筑波大学主催　ICTを活用するIoT時代のイノベーション人材育成のためのビジネスアプリケーション/システムデザイン実践教育ネットワークenPiT-BizSysD |
-| 勤務時期 | 2022年8月（5日間） |
-| 作成物 | Webアプリケーション |
-| チーム人数 | 5人 |
-| 自分の役職 | プロダクトマネージャー（リーダー） |
-| 開発言語 | ![](https://skillicons.dev/icons?i=ts) |
-| ライブラリ | ![](https://skillicons.dev/icons?i=react) |
-| ビルドツール | ![](https://skillicons.dev/icons?i=vite) |
-| バージョン管理ツール | ![](https://skillicons.dev/icons?i=git,github) |
-| 経験内容詳細 | ・身近にある困りごとをもとにプロダクトを企画<br>・ユーザのフィードバックに基づくバックログ調整を経験<br>・スクラムによるアジャイル開発を経験 |
-| 備考 | [こちら](https://zenn.dev/9re_pe/articles/agile-meshireco)にて、アプリケーションの詳細、サービスのURL、企画や開発の過程、ハッカソンを通しての学びなどを詳しく記載しております。 |
+| ---------------- | ---------------- | 
+| Ivent            | 筑波大学主催　ICTを活用するIoT時代のイノベーション人材育成のためのビジネスアプリケーション/システムデザイン実践教育ネットワークenPiT-BizSysD |
+| Term             | 2022.08（5 days） |
+| Product          | Web App |
+| n_members        | 5 |
+| My Role          | PM |
+| Technology stack | ![](https://skillicons.dev/icons?i=ts,react,vite) |
+| Details          | [Zenn](https://zenn.dev/9re_pe/articles/agile-meshireco) |
 
 
 ## COMPETITION & QUALIFICATION
 
 ||| 
 | ---------- | ----------- | 
-| 競技プログラミング | AtCoder レーティング🟢 |
+| 競技プログラミング | AtCoder Rating 🟢 |
 | 機械学習コンペ | atmaCup #16 in collaboration with RECRUIT |
 | 機械学習コンペ | SIGNATE 第2回 金融データ活用チャレンジ |
 | 語学スキル | TOEIC 855点 |
