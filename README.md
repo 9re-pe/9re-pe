@@ -38,7 +38,7 @@ DSE Lab. (Data System Engineering Laboratory)
 - 🇯🇵 DEIM2024
 - 🇮🇹 DaWaK2024 ( [10.1007/978-3-031-68323-7_14](https://link.springer.com/chapter/10.1007/978-3-031-68323-7_14) )
 
-▼ Poster in DEIM2024 (Only Japanese)
+▼ Poster in DEIM2024 (Japanese Only)
 
 <img width="700" alt="image" src="https://github.com/9re-pe/9re-pe/assets/88223184/5cbf9954-968f-43c7-96bc-d72023057c3c">
 
